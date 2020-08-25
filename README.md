@@ -33,7 +33,7 @@ REST, stands for ________ and is a set of ________ for creating API's.
 
 REST suggests to create an ________ of the data requested by the client and send the ________ of the object in response to the user.
 
-Use it to get a great deal of ________ since data is not tied to resources or methods.
+People use it to get ________ since data is not tied to resources or methods.
 
 - **A:** Rapid State Transfer ___ objects ___ question ___ answer ___ structure
 - **B:** Reactive State Transfer ___ rules ___ object ___ values ___ performance
