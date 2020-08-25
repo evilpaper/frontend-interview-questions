@@ -12,7 +12,7 @@ Grid is designed for laying out items in ________ dimensions, rows ________ colu
 
 - **A:** one___or___two___and
 - **B:** multiple___or___single___and
-- **C:** two___or___two___and
+- **C:** two___or___three___and
 - **D:** block___or___inline___and
 
 <details><summary><b>Answer</b></summary>
