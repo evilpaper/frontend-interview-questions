@@ -1,4 +1,6 @@
-# Frontend Interview Questions (and Answers... :boom:)
+# Frontend Interview Questions
+
+...and answers :boom:
 
 A bunch of common Frontend Developer Interview Questions. Utilizing Minimum Information Principle and Cloze Deletion for effective learning. 
 
