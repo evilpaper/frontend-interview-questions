@@ -1,4 +1,4 @@
-# Frontend Interview Questions (with Answers...:fireworks)
+# Frontend Interview Questions (with Answers... :boom:)
 
 A bunch of common Frontend Developer Interview Questions incl. Answers. Utilizing the Minimum Information Principle and Cloze Deletion for effective learning. 
 
