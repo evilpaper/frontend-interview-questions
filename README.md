@@ -26,3 +26,24 @@ Grid is designed for laying out items in ________ dimensions, rows ________ colu
 </details>
 
 ---
+
+#### 2. What is REST, and why do people use it?
+
+REST, stands for ________ and is a set of ________ for creating API's. 
+
+REST suggests to create an ________ of the data requested by the client and send the ________ of the object in response to the user.
+
+- **A:** Rapid State Transfer ___ objects ___ question ___ answer
+- **B:** Reactive State Transfer ___ rules ___ object ___ values
+- **C:** Representational State Transfer ___ rules ___ object ___ values
+- **D:** Regular State Transfer ___ rules ___ object ___ values
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: C
+
+</p>
+</details>
+
+---
