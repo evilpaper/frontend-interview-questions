@@ -12,10 +12,36 @@ Flexbox is designed for laying out items in ________ dimension, either a row ___
 
 Grid is designed for laying out items in ________ dimensions, rows ________ columns at the same time.
 
-- **A:** one ___ or ___ two ___ and
-- **B:** multiple ___ or ___ single ___ and
-- **C:** two ___ or ___ three ___ and
-- **D:** block ___ or ___ inline ___ and
+<table>
+    <tr>
+        <td>A:</td>
+        <td>one</td>
+        <td>or</td>
+        <td>two</td>
+        <td>and</td>
+    </tr>
+    <tr>
+        <td>B:</td>
+        <td>multiple</td>
+        <td>or</td>
+        <td>single</td>
+        <td>and</td>
+    </tr>
+      <tr>
+        <td>C:</td>
+        <td>two</td>
+        <td>or</td>
+        <td>three</td>
+        <td>and</td>
+    </tr>
+      <tr>
+        <td>D:</td>
+        <td>block</td>
+        <td>or</td>
+        <td>inline</td>
+        <td>and</td>
+    </tr>
+</table>
 
 <details><summary><b>Answer</b></summary>
 <p>
