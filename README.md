@@ -19,7 +19,7 @@ Grid is designed for laying out items in ________ dimensions, rows ________ colu
 | **C:**        | two           | or            | three         | and           |
 | **D:**        | block         | or            | inline        | and           |
 
-<details><summary><b>Answer</b></summary>
+<details><summary><b>Show answer</b></summary>
 <p>
 
 #### Answer: A
@@ -42,7 +42,7 @@ People use it to get ________ since data is not tied to resources or methods.
 - **C:** Representational State Transfer ___ rules ___ object ___ values ___ flexibility
 - **D:** Regular State Transfer ___ rules ___ object ___ values ___ transparency
 
-<details><summary><b>Answer</b></summary>
+<details><summary><b>Show answer</b></summary>
 <p>
 
 #### Answer: C
