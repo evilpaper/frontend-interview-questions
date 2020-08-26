@@ -12,7 +12,7 @@ Flexbox is designed for laying out items in ________ dimension, either a row ___
 
 Grid is designed for laying out items in ________ dimensions, rows ________ columns at the same time.
 
-| Options       |               |               |               |               |
+| ?             |               |               |               |               |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **A:**        | one           | or            | two           | and           |
 | **B:**        | multiple      | or            | single        | and           |
@@ -37,10 +37,12 @@ REST suggests to create an ________ of the data requested by the client and send
 
 People use it to get ________ since data is not tied to resources or methods.
 
-- **A:** Rapid State Transfer ___ objects ___ question ___ answer ___ structure
-- **B:** Reactive State Transfer ___ rules ___ object ___ values ___ performance
-- **C:** Representational State Transfer ___ rules ___ object ___ values ___ flexibility
-- **D:** Regular State Transfer ___ rules ___ object ___ values ___ transparency
+| ?             |                                |              |               |               |                     |
+| ------------- | ------------------------------ | ------------ | ------------- | ------------- | ------------------- |
+| **A:**        | Rapid State Transfer           | objects      | question      | answer        | structure           |
+| **B:**        | Reactive State Transfer        | rules        | object        | values        | performance         |
+| **C:**        | Representational State Transfer| rules        | object        | values        | flexibility         |
+| **D:**        | Regular State Transfer         | rules        | object        | values        | transparency        |
 
 <details><summary><b>Show answer</b></summary>
 <p>
