@@ -53,3 +53,30 @@ People use it to get ________ since data is not tied to resources or methods.
 </details>
 
 ---
+
+#### 3. What is Big O notation, and why is it useful?
+
+Big O notation tells you how ________ an algorithm is by comparing the number of ________ . 
+
+It is useful in order to ________ different algorithms.
+
+| ?             |               |               |              |
+| ------------- | ------------- | ------------- | ------------ |
+| **A:**        | strong        | loops         | merge        | 
+| **B:**        | fast          | operations    | compare      |
+| **C:**        | smart         | seconds       | code         |
+| **D:**        | complex       | statements    | setup        |
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: B
+
+For example, suppose you have a list of size n. Simple search needs to check each element, so it will take n operations. This means it grows linear e.g. at constant speed. 10 items takes 10 operations, 20 items take 20 operations and so on. In Big O notation we write this O(n).
+
+O(log n), also known as log time. Grows slow, is fast. Example: Binary search.
+O(n), also known as linear time. Example: Simple search.
+O(2^N), also known as exponential time. Grows fast, is slow.   
+
+</p>
+</details>
