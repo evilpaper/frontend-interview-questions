@@ -76,11 +76,9 @@ For example, suppose you have a list of size n. Simple search needs to check eac
 
 Some other examples are:
 
-O(log n), also known as log time. Grows slow, is fast. Example: Binary search.
-
-O(n), also known as linear time. Example: Simple search (the example above).
-
-O(2^N), also known as exponential time. Grows fast, is slow.   
+1. O(log n), also known as log time. Grows slow, is fast. Example: Binary search.
+1. O(n), also known as linear time. Example: Simple search (the example above).
+1. O(2^N), also known as exponential time. Grows fast, is slow.   
 
 </p>
 </details>
