@@ -84,3 +84,28 @@ Judging from the above, Binary search would be the more perfomant option in our 
 
 </p>
 </details>
+
+___
+
+#### 4. What is the DOM?
+
+DOM stand for the ________ . It’s the ________ of a document on the web. As such the DOM is a programming ________ . The DOM allows programmatic _______ to the web document. With DOM methods, you can change the document's structure, style, or content.
+
+| ?             |                               |                     |               |               |
+| ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
+| **A:**        | Document Object Model         | data representation | interface     | access        |
+| **B:**        | Document Observer Model       | inner workings      | environment   | view          |
+| **C:**        | Digital Object Model          | rules               | host          | transfer      |
+| **D:**        | Data Object Management        | bits and bytes      | set           | hack          |
+
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: A
+
+</p>
+</details>
+
+---
+
