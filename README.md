@@ -77,8 +77,10 @@ For example, suppose you have a list of size n. Simple search needs to check eac
 You use this to compare to other algorithms like this:
 
 * O(log n), also known as log time. Grows slow, is fast. Example: Binary search.
-* O(n), also known as linear time. Example: Simple search (the example above).
-* O(2^N), also known as quadratic time. Grows fast, is slowest. Example: 
+* O(n), also known as linear time. Our example above, called: Simple search.
+* O(2^N), also known as quadratic time. Grows fast, is slowest. 
+
+Judging from the above, Binary search would be the more perfomant option in our case.
 
 </p>
 </details>
