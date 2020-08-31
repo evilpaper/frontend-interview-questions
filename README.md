@@ -31,9 +31,9 @@ Grid is designed for laying out items in .......... dimensions, rows .......... 
 
 #### 2. What is REST, and why do people use it?
 
-REST, stands for ________ and is a set of ________ for creating API's.
+REST, stands for .......... and is a set of .......... for creating API's.
 
-REST suggests to create an ________ of the data requested by the client and send the ________ of the object in response to the user.
+REST suggests to create an .......... of the data requested by the client and send the .......... of the object in response to the user.
 
 | ?             |                                |              |               |               |
 | ------------- | ------------------------------ | ------------ | ------------- | ------------- |
@@ -54,9 +54,9 @@ REST suggests to create an ________ of the data requested by the client and send
 
 #### 3. What is Big O notation, and why is it useful?
 
-Big O notation tells you how ________ an algorithm is by comparing the number of ________ . 
+Big O notation tells you how .......... an algorithm is by comparing the number of .......... . 
 
-It is useful in order to ________ different algorithms.
+It is useful in order to .......... different algorithms.
 
 | ?             |               |               |              |
 | ------------- | ------------- | ------------- | ------------ |
@@ -87,7 +87,9 @@ ___
 
 #### 4. What is the DOM?
 
-DOM stand for the ________ . It’s the ________ of a document on the web. As such the DOM is a programming ________ . The DOM allows programmatic _______ to the web document. With DOM methods, you can change the document's structure, style, or content.
+DOM stand for the .......... . It’s the .......... of a document on the web. As such the DOM is a programming .......... . 
+
+The DOM allows programmatic .......... to the web document. With DOM methods, you can change the document's structure, style, or content.
 
 | ?             |                               |                     |               |               |
 | ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
