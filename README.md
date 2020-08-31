@@ -8,9 +8,9 @@ A bunch of common Frontend Developer Interview Questions. Utilizing Minimum Info
 
 #### 1. Explain the difference between (CSS) Flexbox and (CSS) Grid?
 
-Flexbox is designed for laying out items in ________ dimension, either a row ________ a column. 
+Flexbox is designed for laying out items in .......... dimension, either a row .......... a column. 
 
-Grid is designed for laying out items in ________ dimensions, rows ________ columns at the same time.
+Grid is designed for laying out items in .......... dimensions, rows .......... columns at the same time.
 
 | ?             |               |               |               |               |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
