@@ -35,14 +35,12 @@ REST, stands for ________ and is a set of ________ for creating API's.
 
 REST suggests to create an ________ of the data requested by the client and send the ________ of the object in response to the user.
 
-People use it to get ________ since data is not tied to resources or methods.
-
-| ?             |                                |              |               |               |                     |
-| ------------- | ------------------------------ | ------------ | ------------- | ------------- | ------------------- |
-| **A:**        | Rapid State Transfer           | objects      | question      | answer        | structure           |
-| **B:**        | Reactive State Transfer        | rules        | object        | values        | performance         |
-| **C:**        | Representational State Transfer| rules        | object        | values        | flexibility         |
-| **D:**        | Regular State Transfer         | rules        | object        | values        | transparency        |
+| ?             |                                |              |               |               |
+| ------------- | ------------------------------ | ------------ | ------------- | ------------- |
+| **A:**        | Rapid State Transfer           | objects      | question      | answer        |
+| **B:**        | Reactive State Transfer        | rules        | function      | callbacks     |
+| **C:**        | Representational State Transfer| rules        | object        | values        |
+| **D:**        | Regular State Transfer         | rules        | JSON          | object        |
 
 <details><summary><b>Show answer</b></summary>
 <p>
