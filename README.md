@@ -89,7 +89,9 @@ ___
 
 DOM stand for the .......... . It’s the .......... of a document on the web. As such the DOM is a programming .......... . 
 
-The DOM allows programmatic .......... to the web document. With DOM methods, you can change the document's structure, style, or content.
+The DOM allows programmatic .......... to the web document. 
+
+With DOM methods, you can change the document's structure, style, or content.
 
 | ?             |                               |                     |               |               |
 | ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
