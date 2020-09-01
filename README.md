@@ -29,7 +29,7 @@ Grid is designed for laying out items in .......... dimensions, rows .......... 
 
 ---
 
-#### 2. What is REST, and why do people use it?
+#### 2. What is REST?
 
 REST, stands for .......... and is a set of .......... for creating API's.
 
@@ -91,8 +91,6 @@ DOM stand for the .......... . It’s the .......... of a document on the web. A
 
 The DOM allows programmatic .......... to the web document. 
 
-With DOM methods, you can change the document's structure, style, or content.
-
 | ?             |                               |                     |               |               |
 | ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
 | **A:**        | Document Object Model         | data representation | interface     | access        |
@@ -105,6 +103,8 @@ With DOM methods, you can change the document's structure, style, or content.
 <p>
 
 #### Answer: A
+
+With DOM methods, you can change the document's structure, style, or content.
 
 </p>
 </details>
