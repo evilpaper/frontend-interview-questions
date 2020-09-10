@@ -111,3 +111,29 @@ With DOM methods, you can change the document's structure, style, or content.
 
 ---
 
+#### 5. What is the eventloop?
+
+The event loop is a programming construct or design pattern that ........ for and ........ events or messages in a program. 
+
+JavaScript is single ........ and can only run ........ task at the time. To be able to jump between tasks instead of waiting JavaScript use an event loop. 
+
+| ?             |              |            |               |               |
+| ------------- | ------------ | ---------- | ------------- | ------------- |
+| **A:**        | care         | organize   | minded        | one           |
+| **B:**        | search       | find       | throttled     | two           |
+| **C:**        | looks        | forward    | wired         | three        |
+| **D:**        | waits        | dispatches | threaded      | one           |
+
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: D
+
+The event loop use a call stack and a queue to jump between tasks when the tasks wait for other stuff to finish like a http request etc.
+
+</p>
+</details>
+
+
+
