@@ -135,5 +135,28 @@ The event loop use a call stack and a queue to jump between tasks when the tasks
 </p>
 </details>
 
+---
+
+#### 6. Explain event delegation?
+
+Event delegation is the process of ........ ........ events. 
+
+| ?             |              |            | 
+| ------------- | ------------ | ---------- |
+| **A:**        | catching     | bubbled    |
+| **B:**        | pushing      | emitted    |
+| **C:**        | hoisting     | new        |
+| **D:**        | dispatching  | actions    |
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: A
+
+Imagine a calculator. Instead of attaching event listeners to each and every button element, which would be a lot, we attach one to the keypad element which contains the button elements. When a button is clicked the event will bubble up to the keyboard where we catch it and identify the button. 
+
+</p>
+</details>
+
 
 
