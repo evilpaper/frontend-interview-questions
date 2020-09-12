@@ -162,14 +162,14 @@ Imagine a calculator. Instead of attaching event listeners to each and every but
 
 #### 7. Explain how `this` works in JavaScript??
 
-The `this` keyword is an implicit ........ passed to a function on invocation. `this` refers to the ........ that's associated with the ........ invocation, it's often called *function ........ *. If not set `this` refer to the window object.
+The `this` keyword is an implicit ........ passed to a function on invocation. `this` refers to the ........ that's associated with the ........ invocation, it's often called function ........ . If not set `this` refer to the window object.
 
 | ?             |              |            |               |               |
 | ------------- | ------------ | ---------- | ------------- | ------------- |
-| **A:**        | argument     | function   | function      | *scope*       |
-| **B:**        | props        | primitive  | caller        | *value*       |
-| **C:**        | parameter    | object     | function      | *context*     |
-| **D:**        | variable     | function   | receiver      | *source*      |
+| **A:**        | argument     | function   | function      | scope       |
+| **B:**        | props        | primitive  | caller        | value       |
+| **C:**        | parameter    | object     | function      | context     |
+| **D:**        | variable     | function   | receiver      | source      |
 
 <details><summary><b>Show answer</b></summary>
 <p>
