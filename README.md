@@ -164,8 +164,8 @@ Imagine a calculator. Instead of attaching event listeners to each and every but
 
 The `this` keyword is an implicit ........ passed to a function on invocation. `this` refers to the ........ that's associated with the ........ invocation, it's often called function ........ . If not set `this` refer to the window object.
 
-| ?             |              |            |               |               |
-| ------------- | ------------ | ---------- | ------------- | ------------- |
+| ?             |              |            |               |             |
+| ------------- | ------------ | ---------- | ------------- | ----------- |
 | **A:**        | argument     | function   | function      | scope       |
 | **B:**        | props        | primitive  | caller        | value       |
 | **C:**        | parameter    | object     | function      | context     |
@@ -179,5 +179,26 @@ The `this` keyword is an implicit ........ passed to a function on invocation. `
 </p>
 </details>
 
+---
 
+#### 8. What is a closure, and how/why would you use one?
+
+A closure is when a function has ........ to variables defined outside of itself. A closures are created every time a ........ is created. Closures can be used to mimic ........ object variables and dealing with .........
+
+| ?             |              |            |               |             |
+| ------------- | ------------ | ---------- | ------------- | ----------- |
+| **A:**        | control      | primitive  | multiple      | context     |
+| **B:**        | effect       | object     | counters      | modules     |
+| **C:**        | dedendency   | recursion  | flexible      | delegation  |
+| **D:**        | accesses     | function   | private       | callbacks   |
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: D
+
+</p>
+</details>
+
+---
 
