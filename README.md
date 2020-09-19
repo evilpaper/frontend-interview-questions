@@ -183,14 +183,14 @@ The `this` keyword is an implicit ........ passed to a function on invocation. `
 
 #### 8. What is a closure, and how/why would you use one?
 
-A closure is when a function has *. . . . .1st. . . . .* to variables defined outside of itself. A closures are created every time a *. . . . .2nd. . . . .* is created. Closures can be used to mimic *. . . . .3rd. . . . .* object variables and dealing with *. . . . .4th. . . . .*
+A closure is when a function has *.....1st.....* to variables defined outside of itself. A closures are created every time a *. . . . .2nd. . . . .* is created. Closures can be used to mimic *. . . . .3rd. . . . .* object variables and dealing with *. . . . .4th. . . . .*
 
 | ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
 | **A:**        | control      | primitive  | multiple      | context     |
 | **B:**        | effect       | object     | counters      | modules     |
 | **C:**        | dedendency   | recursion  | flexible      | delegation  |
-| **D:**        | accesses     | function   | private       | callbacks   |
+| **D:**        | access.      | function   | private       | callbacks   |
 
 <details><summary><b>Show answer</b></summary>
 <p>
