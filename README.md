@@ -183,7 +183,7 @@ The `this` keyword is an implicit ........ passed to a function on invocation. `
 
 #### 8. What is a closure, and how/why would you use one?
 
-A closure is when a function has ........ to variables defined outside of itself. A closures are created every time a ........ is created. Closures can be used to mimic ........ object variables and dealing with .........
+A closure is when a function has *. . . .1st. . . .* to variables defined outside of itself. A closures are created every time a *. . . .2nd. . . .* is created. Closures can be used to mimic *. . . .3rd. . . .* object variables and dealing with *. . . .4th. . . .*
 
 | ?             |              |            |               |             |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
@@ -204,7 +204,7 @@ A closure is when a function has ........ to variables defined outside of itself
 
 #### 9. What language constructions do you use for iterating over array items and object properties?
 
-For array items: for...of, *. . . .1st. . . .*, *. . . .2nd. . . .* or *. . . .3rd. . . .*
+For array items: for...of , *. . . .1st. . . .* , *. . . .2nd. . . .* or *. . . .3rd. . . .*
 
 For object properties: *. . . .4th. . . .*
 
