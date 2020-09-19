@@ -202,3 +202,22 @@ A closure is when a function has ........ to variables defined outside of itself
 
 ---
 
+#### 9. What language constructions do you use for iterating over object properties and array items?
+
+For array items = , ........ for...of, ........ or ........
+For Object properties = ........ to iterate over the properties of an object.
+
+| ?             |              |            |               |             |
+| ------------- | ------------ | ---------- | ------------- | ----------- |
+| **A:**        | for          | while      | switch        | forEach     |
+| **B:**        | for...of     | for        | every         | for...of    |
+| **C:**        | map          | for...of   | while         | every       |
+| **D:**        | forEach      | every      | map           | for...in    |
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: D
+
+</p>
+</details>
