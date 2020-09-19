@@ -187,10 +187,10 @@ A closure is when a function has *. . . . . 1st . . . . .* to variables defined 
 
 | ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
-| **A:**        | control      | primitive  | multiple      | context     |
-| **B:**        | effect       | object     | counters      | modules     |
-| **C:**        | dedendency   | recursion  | flexible      | delegation  |
-| **D:**        | access.      | function   | private       | callbacks   |
+| **A:**        | influence    | primitive  | multiple      | context     |
+| **B:**        | a relation   | object     | counters      | modules     |
+| **C:**        | a iterator   | recursion  | flexible      | delegation  |
+| **D:**        | access       | function   | private       | callbacks   |
 
 <details><summary><b>Show answer</b></summary>
 <p>
