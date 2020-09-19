@@ -183,9 +183,9 @@ The `this` keyword is an implicit ........ passed to a function on invocation. `
 
 #### 8. What is a closure, and how/why would you use one?
 
-A closure is when a function has *. . . .1st. . . .* to variables defined outside of itself. A closures are created every time a *. . . .2nd. . . .* is created. Closures can be used to mimic *. . . .3rd. . . .* object variables and dealing with *. . . .4th. . . .*
+A closure is when a function has *. . . . .1st. . . . .* to variables defined outside of itself. A closures are created every time a *. . . . .2nd. . . . .* is created. Closures can be used to mimic *. . . . .3rd. . . . .* object variables and dealing with *. . . . .4th. . . . .*
 
-| ?             |              |            |               |             |
+| ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
 | **A:**        | control      | primitive  | multiple      | context     |
 | **B:**        | effect       | object     | counters      | modules     |
@@ -204,9 +204,9 @@ A closure is when a function has *. . . .1st. . . .* to variables defined outsid
 
 #### 9. What language constructions do you use for iterating over array items and object properties?
 
-For array items: for...of , *. . . .1st. . . .* , *. . . .2nd. . . .* or *. . . .3rd. . . .*
+For array items: for...of , *. . . . .1st. . . . .* , *. . . . .2nd. . . . .* or *. . . . .3rd. . . . .*
 
-For object properties: *. . . .4th. . . .*
+For object properties: *. . . . .4th. . . . .*
 
 | ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
