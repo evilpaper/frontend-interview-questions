@@ -204,7 +204,7 @@ A closure is when a function has ........ to variables defined outside of itself
 
 #### 9. What language constructions do you use for iterating over array items and object properties?
 
-For array items: for...of, *.....1st.....*, *......2nd......* or *......3rd......*
+For array items: for...of, *_____1st_____*, *_ _ _2nd_ _ _* or *......3rd......*
 
 For object properties: *......4th......*
 
