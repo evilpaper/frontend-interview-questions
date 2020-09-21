@@ -12,7 +12,7 @@ Flexbox is designed for laying out items in .......... dimension, either a row .
 
 Grid is designed for laying out items in .......... dimensions, rows .......... columns at the same time.
 
-| ?             |               |               |               |               |
+| ?             | *1st*         | *2nd*         | *3rd*         | *4th*         |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **A:**        | one           | or            | two           | and           |
 | **B:**        | multiple      | or            | single        | and           |
@@ -35,7 +35,7 @@ REST, stands for .......... and is a set of .......... for creating API's.
 
 REST suggests to create an .......... of the data requested by the client and send the .......... of the object in response to the user.
 
-| ?             |                                |              |               |               |
+| ?             | *1st*                          | *2nd*        | *3rd*         | *4th*         |
 | ------------- | ------------------------------ | ------------ | ------------- | ------------- |
 | **A:**        | Rapid State Transfer           | objects      | question      | answer        |
 | **B:**        | Reactive State Transfer        | rules        | function      | callbacks     |
@@ -58,7 +58,7 @@ Big O notation tells you how .......... an algorithm is by comparing the number 
 
 It is useful in order to .......... different algorithms.
 
-| ?             |               |               |              |
+| ?             | *1st*         | *2nd*         | *3rd*        |
 | ------------- | ------------- | ------------- | ------------ |
 | **A:**        | strong        | loops         | merge        | 
 | **B:**        | fast          | operations    | compare      |
@@ -91,7 +91,7 @@ DOM stand for the .......... . It’s the .......... of a document on the web. A
 
 The DOM allows programmatic .......... to the web document. 
 
-| ?             |                               |                     |               |               |
+| ?             | *1st*                         | *2nd*               | *3rd*         | *4th*         |
 | ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
 | **A:**        | Document Object Model         | data representation | interface     | access        |
 | **B:**        | Document Observer Model       | inner workings      | environment   | view          |
@@ -117,7 +117,7 @@ The event loop is a programming construct or design pattern that ........ for an
 
 JavaScript is single ........ and can only run ........ task at the time. To be able to jump between tasks instead of waiting JavaScript use an event loop. 
 
-| ?             |              |            |               |               |
+| ?             | *1st*        | *2nd*      | *3rd*         | *4th*         |
 | ------------- | ------------ | ---------- | ------------- | ------------- |
 | **A:**        | care         | organize   | minded        | one           |
 | **B:**        | search       | find       | throttled     | two           |
@@ -141,7 +141,7 @@ The event loop use a call stack and a queue to jump between tasks when the tasks
 
 Event delegation is the process of ........ ........ events. 
 
-| ?             |              |            | 
+| ?             | *1st*        | *2nd*      | 
 | ------------- | ------------ | ---------- |
 | **A:**        | catching     | bubbled    |
 | **B:**        | pushing      | emitted    |
@@ -164,7 +164,7 @@ Imagine a calculator. Instead of attaching event listeners to each and every but
 
 The `this` keyword is an implicit ........ passed to a function on invocation. `this` refers to the ........ that's associated with the ........ invocation, it's often called function ........ . If not set `this` refer to the window object.
 
-| ?             |              |            |               |             |
+| ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
 | **A:**        | argument     | function   | function      | scope       |
 | **B:**        | props        | primitive  | caller        | value       |
