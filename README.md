@@ -54,9 +54,9 @@ REST suggests to create an *. . . . .3rd. . . . .* of the data requested by the 
 
 #### 3. What is Big O notation, and why is it useful?
 
-Big O notation tells you how .......... an algorithm is by comparing the number of .......... . 
+Big O notation tells you how *. . . . .1st. . . . .* an algorithm is by comparing the number of *. . . . .2nd. . . . .* . 
 
-It is useful in order to .......... different algorithms.
+It is useful in order to *. . . . .3rd. . . . .* different algorithms.
 
 | ?             | *1st*         | *2nd*         | *3rd*        |
 | ------------- | ------------- | ------------- | ------------ |
@@ -87,9 +87,9 @@ ___
 
 #### 4. What is the DOM?
 
-DOM stand for the .......... . It’s the .......... of a document on the web. As such the DOM is a programming .......... . 
+DOM stand for the *. . . . .1st. . . . .* . It’s the *. . . . .2nd. . . . .* of a document on the web. As such the DOM is a programming *. . . . .3rd. . . . .* . 
 
-The DOM allows programmatic .......... to the web document. 
+The DOM allows programmatic *. . . . .4th. . . . .* to the web document. 
 
 | ?             | *1st*                         | *2nd*               | *3rd*         | *4th*         |
 | ------------- | ----------------------------- | ------------------- | ------------- | ------------- |
@@ -113,9 +113,9 @@ With DOM methods, you can change the document's structure, style, or content.
 
 #### 5. What is the event loop?
 
-The event loop is a programming construct or design pattern that ........ for and ........ events or messages. 
+The event loop is a programming construct or design pattern that *. . . . .1st. . . . .* for and *. . . . .2nd. . . . .* events or messages. 
 
-JavaScript is single ........ and can only run ........ task at the time. To be able to jump between tasks instead of waiting JavaScript use an event loop. 
+JavaScript is single *. . . . .3rd. . . . .* and can only run *. . . . .4th. . . . .* task at the time. To be able to jump between tasks instead of waiting JavaScript use an event loop. 
 
 | ?             | *1st*        | *2nd*      | *3rd*         | *4th*         |
 | ------------- | ------------ | ---------- | ------------- | ------------- |
@@ -139,7 +139,7 @@ The event loop use a call stack and a queue to jump between tasks when the tasks
 
 #### 6. Explain event delegation?
 
-Event delegation is the process of ........ ........ events. 
+Event delegation is the process of *. . . . .1st. . . . .* *. . . . .2nd. . . . .* events. 
 
 | ?             | *1st*        | *2nd*      | 
 | ------------- | ------------ | ---------- |
@@ -162,7 +162,7 @@ Imagine a calculator. Instead of attaching event listeners to each and every but
 
 #### 7. Explain how `this` works in JavaScript??
 
-The `this` keyword is an implicit ........ passed to a function on invocation. `this` refers to the ........ that's associated with the ........ invocation, it's often called function ........ . If not set `this` refer to the window object.
+The `this` keyword is an implicit *. . . . .1st. . . . .* passed to a function on invocation. `this` refers to the *. . . . .2nd. . . . .* that's associated with the *. . . . .3rd. . . . .* invocation, it's often called function *. . . . .4th. . . . .* . If not set `this` refer to the window object.
 
 | ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
 | ------------- | ------------ | ---------- | ------------- | ----------- |
