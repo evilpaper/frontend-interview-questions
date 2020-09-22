@@ -8,9 +8,9 @@ A bunch of common Frontend Developer Interview Questions. Utilizing Minimum Info
 
 #### 1. Explain the difference between (CSS) Flexbox and (CSS) Grid?
 
-Flexbox is designed for laying out items in .......... dimension, either a row .......... a column. 
+Flexbox is designed for laying out items in *. . . . .1st. . . . .* dimension, either a row *. . . . .2nd. . . . .* a column. 
 
-Grid is designed for laying out items in .......... dimensions, rows .......... columns at the same time.
+Grid is designed for laying out items in *. . . . .3rd. . . . .* dimensions, rows *. . . . .4th. . . . .* columns at the same time.
 
 | ?             | *1st*         | *2nd*         | *3rd*         | *4th*         |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -31,9 +31,9 @@ Grid is designed for laying out items in .......... dimensions, rows .......... 
 
 #### 2. What is REST?
 
-REST, stands for .......... and is a set of .......... for creating API's.
+REST, stands for *. . . . .1st. . . . .* and is a set of *. . . . .2nd. . . . .* for creating API's.
 
-REST suggests to create an .......... of the data requested by the client and send the .......... of the object in response to the user.
+REST suggests to create an *. . . . .3rd. . . . .* of the data requested by the client and send the *. . . . .4th. . . . .* of the object in response to the user.
 
 | ?             | *1st*                          | *2nd*        | *3rd*         | *4th*         |
 | ------------- | ------------------------------ | ------------ | ------------- | ------------- |
