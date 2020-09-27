@@ -224,3 +224,24 @@ For object properties: *. . . . .4th. . . . .*
 </details>
 
 ---
+
+#### 10. Explain Function.prototype.bind?
+
+The bind() method creates a new *. . . . .1st. . . . .* that, when called, has it's *. . . . .2nd. . . . .* keyword set to the provided value.
+
+| ?             | *1st*        | *2nd*      | 
+| ------------- | ------------ | ---------- |
+| **A:**        | loop         | iterator   |
+| **B:**        | function     | this       |
+| **C:**        | context      | prototype  |
+| **D:**        | state        | observer   |
+
+<details><summary><b>Show answer</b></summary>
+<p>
+
+#### Answer: B
+
+</p>
+</details>
+
+---
