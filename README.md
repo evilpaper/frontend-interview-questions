@@ -1,8 +1,8 @@
 # Frontend Interview Questions
 
-...and answers :boom:
+### ...and answers :boom:
 
-A bunch of common Frontend Developer Interview Questions. Utilizing Minimum Information Principle and Cloze Deletion for effective learning. 
+A bunch of common Frontend Developer Interview Questions. Utilizing Minimum Information Principle and Cloze Deletion for effective learning.
 
 ---
 
