@@ -31,7 +31,7 @@ Grid is designed for laying out items in *. . . . .3rd. . . . .* dimensions, row
 
 #### 2. What is REST?
 
-REST, stands for *. . . . .1st. . . . .* .
+REST stands for *. . . . .1st. . . . .* .
 
 REST is a set of *. . . . .2nd. . . . .* for creating API's.
 
