@@ -24,6 +24,8 @@ Grid is designed for laying out items in *. . . . .3rd. . . . .* dimensions, row
 
 #### Answer: A
 
+Read more https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout
+
 </p>
 </details>
 
