@@ -51,6 +51,8 @@ REST suggests to create an *. . . . .3rd. . . . .* of the data requested by the 
 
 #### Answer: C
 
+Read more: <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">Understanding and Using REST API's</a> at Smashing Magazine
+
 </p>
 </details>
 
