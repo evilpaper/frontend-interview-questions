@@ -24,7 +24,7 @@ Grid is designed for laying out items in *. . . . .3rd. . . . .* dimensions, row
 
 #### Answer: A
 
-Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout">Relationship of grid layout to other layout methods</a> at MDN
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout">Relationship of grid layout to other layout methods</a> on MDN
 
 </p>
 </details>
@@ -51,7 +51,7 @@ REST suggests to create an *. . . . .3rd. . . . .* of the data requested by the 
 
 #### Answer: C
 
-Read more: <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">Understanding and Using REST API's</a> at Smashing Magazine
+Read more: <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">Understanding and Using REST API's</a> on Smashing Magazine
 
 </p>
 </details>
