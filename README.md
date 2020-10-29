@@ -112,6 +112,8 @@ The DOM allows programmatic *. . . . .4th. . . . .* to the web document.
 
 With DOM methods, you can change the document's structure, style, or content.
 
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">Introduction to the DOM</a>on MDN.
+
 </p>
 </details>
 
