@@ -140,6 +140,8 @@ JavaScript is single *. . . . .3rd. . . . .* and can only run *. . . . .4th. . .
 
 The event loop use a call stack and a queue to jump between tasks when the tasks wait for other stuff to finish like a http request etc.
 
+Read more: <a href="https://flaviocopes.com/javascript-event-loop/">The JavaScript Event Loop</a> by Flavio Copes.
+
 </p>
 </details>
 
