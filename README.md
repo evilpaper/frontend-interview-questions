@@ -186,6 +186,8 @@ The `this` keyword is an implicit *. . . . .1st. . . . .* passed to a function o
 
 #### Answer: C
 
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this>this</a> at MDN
+
 </p>
 </details>
 
@@ -206,6 +208,8 @@ A closure is when a function has *. . . . . 1st . . . . .* to variables defined 
 <p>
 
 #### Answer: D
+
+Read more: <a href="https://whatthefuck.is/closure">What the fuck is a closure?</a> by Dan Abramov
 
 </p>
 </details>
