@@ -186,7 +186,7 @@ The `this` keyword is an implicit *. . . . .1st. . . . .* passed to a function o
 
 #### Answer: C
 
-Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this>this</a> at MDN
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"> this</a> at MDN
 
 </p>
 </details>
