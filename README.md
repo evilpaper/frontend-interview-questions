@@ -24,7 +24,7 @@ Grid is designed for laying out items in *. . . . .3rd. . . . .* dimensions, row
 
 #### Answer: A
 
-Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout">Relationship of grid layout to other layout methods</a> on MDN
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout">Relationship of grid layout to other layout methods</a> at MDN.
 
 </p>
 </details>
@@ -51,7 +51,7 @@ REST suggests to create an *. . . . .3rd. . . . .* of the data requested by the 
 
 #### Answer: C
 
-Read more: <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">Understanding and Using REST API's</a> on Smashing Magazine
+Read more: <a href="https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/">Understanding and Using REST API's</a> at Smashing Magazine.
 
 </p>
 </details>
@@ -186,7 +186,7 @@ The `this` keyword is an implicit *. . . . .1st. . . . .* passed to a function o
 
 #### Answer: C
 
-Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"> this</a> at MDN
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"> this</a> at MDN.
 
 </p>
 </details>
@@ -209,7 +209,7 @@ A closure is when a function has *. . . . . 1st . . . . .* to variables defined 
 
 #### Answer: D
 
-Read more: <a href="https://whatthefuck.is/closure">What the fuck is a closure?</a> by Dan Abramov
+Read more: <a href="https://whatthefuck.is/closure">What the fuck is a closure?</a> by Dan Abramov.
 
 </p>
 </details>
@@ -254,6 +254,8 @@ The bind() method creates a new *. . . . .1st. . . . .* that, when called, has i
 <p>
 
 #### Answer: B
+
+Read more: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind">bind</a> at MDN.
 
 </p>
 </details>
