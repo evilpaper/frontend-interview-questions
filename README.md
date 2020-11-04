@@ -234,6 +234,10 @@ For object properties: *. . . . .5th. . . . .*
 
 #### Answer: D
 
+for..of iterates over the values of an iterable object. Examples of iterable objects are arrays, strings, and NodeLists.
+
+for..in iterates over all enumerable property keys of an object.
+
 </p>
 </details>
 
