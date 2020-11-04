@@ -218,16 +218,16 @@ Read more: <a href="https://whatthefuck.is/closure">What the fuck is a closure?<
 
 #### 9. What language constructions do you use for iterating over array items and object properties?
 
-For array items: for...of , *. . . . .1st. . . . .* , *. . . . .2nd. . . . .* or *. . . . .3rd. . . . .*
+For array items: *. . . . .1st. . . . .*  , *. . . . .2nd. . . . .* , *. . . . .3rd. . . . .* or *. . . . .4th. . . . .*
 
-For object properties: *. . . . .4th. . . . .*
+For object properties: *. . . . .5th. . . . .*
 
-| ?             | *1st*        | *2nd*      | *3rd*         | *4th*       |
-| ------------- | ------------ | ---------- | ------------- | ----------- |
-| **A:**        | for          | while      | switch        | forEach     |
-| **B:**        | for...of     | for        | every         | for...of    |
-| **C:**        | map          | for...of   | while         | every       |
-| **D:**        | forEach      | every      | map           | for...in    |
+| ?             | *1st*        | *2nd*      | *3rd*         | *4th*       | *4th*       |
+| ------------- | ------------ | ---------- | ------------- | ----------- | ----------- |
+| **A:**        | for          | while      | switch        | forEach     | every       |
+| **B:**        | for...of     | for        | every         | for...of    | map         |
+| **C:**        | map          | for...of   | while         | every       | set.        |
+| **D:**        | for...of     | forEach    | every         | map         | for...in    |
 
 <details><summary><b>Show answer</b></summary>
 <p>
